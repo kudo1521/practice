@@ -28,6 +28,8 @@
 /** WordPress のためのデータベース名 */
 define( 'DB_NAME', 'wp-practice' );
 
+
+
 /** MySQL データベースのユーザー名 */
 define( 'DB_USER', 'root' );
 
